@@ -1,1 +1,1 @@
-# Data_Analyst_Python_Sprint_7
+El objetivo de este sprint es consolidar los fundamentos de sintaxis de Python y conceptos generales de la programación como la creación de funciones reutilizables, el uso de diferentes estructuras de datos y el control de flujo y automatización.
